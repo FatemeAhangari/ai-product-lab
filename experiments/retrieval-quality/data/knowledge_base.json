@@ -1,0 +1,7 @@
+[
+  {"id":"KB-001","title":"Refund policy","text":"Domestic ticket refunds depend on the fare rules and cancellation timing."},
+  {"id":"KB-002","title":"Booking confirmation","text":"A booking can remain pending after payment until the provider confirms the reservation."},
+  {"id":"KB-003","title":"Provider timeout","text":"Provider timeouts should be retried according to the retry policy before escalation."},
+  {"id":"KB-004","title":"VIP support","text":"High-value VIP cases may require human review before a refund is approved."},
+  {"id":"KB-005","title":"Payment reconciliation","text":"Captured payments without confirmed bookings require reconciliation between payment and reservation records."}
+]
