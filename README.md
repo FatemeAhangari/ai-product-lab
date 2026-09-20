@@ -10,6 +10,15 @@ This is intentionally not a collection of generic chatbot demos. Each experiment
 
 ## Experiments
 
+### 02 — Retrieval Quality
+
+**Question:** How should a product evaluate whether a retrieval layer is finding the right evidence before an LLM generates an answer?
+
+Measures Recall@K and MRR on synthetic knowledge-base queries, separating retrieval quality from generation quality.
+
+See:
+`experiments/retrieval-quality/`
+
 ### 01 — Prompt vs Rules
 
 **Question:** When should a product use an LLM for classification, and when should deterministic rules be preferred?
