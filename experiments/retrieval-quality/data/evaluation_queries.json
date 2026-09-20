@@ -1,0 +1,7 @@
+[
+  {"query":"When can a domestic ticket be refunded?","relevant_id":"KB-001"},
+  {"query":"Payment succeeded but my reservation is still pending","relevant_id":"KB-002"},
+  {"query":"What should happen when the supplier times out?","relevant_id":"KB-003"},
+  {"query":"Does a costly VIP refund need a person to approve it?","relevant_id":"KB-004"},
+  {"query":"How do we reconcile a captured payment with no confirmed booking?","relevant_id":"KB-005"}
+]
