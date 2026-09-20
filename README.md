@@ -70,6 +70,18 @@ Key dimensions:
 See:
 `experiments/prompt-vs-rules/`
 
+## Product philosophy
+
+I do not treat AI as the answer to every product problem.
+
+The experiments in this lab explore **where AI creates enough value to justify its complexity** — and where rules, automation, or simpler systems are better.
+
+The decision lens is:
+
+**Problem → mechanism → value → risk → trade-off → evidence**
+
+AI is introduced when it improves the outcome; it is not added just to make a product "AI-powered."
+
 ## Areas
 
 - Structured LLM output
