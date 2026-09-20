@@ -10,6 +10,15 @@ This is intentionally not a collection of generic chatbot demos. Each experiment
 
 ## Experiments
 
+### 05 — Human-in-the-Loop Thresholds
+
+**Question:** When should an AI system automate a decision, and when should it route the case to a human?
+
+Uses confidence, risk, financial impact, and reversibility to define an explicit automation boundary.
+
+See:
+`experiments/human-in-the-loop/`
+
 ### 04 — Cost & Latency Trade-offs
 
 **Question:** When is a more capable AI model worth its additional latency and cost?
