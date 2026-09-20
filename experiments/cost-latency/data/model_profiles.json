@@ -1,0 +1,5 @@
+[
+  {"model":"fast-baseline","quality":0.78,"latency_ms":450,"cost_per_1k_tokens":0.001,"requests_per_minute":120},
+  {"model":"balanced","quality":0.88,"latency_ms":850,"cost_per_1k_tokens":0.006,"requests_per_minute":80},
+  {"model":"high-quality","quality":0.94,"latency_ms":1800,"cost_per_1k_tokens":0.025,"requests_per_minute":40}
+]
