@@ -1,0 +1,23 @@
+[
+  {
+    "id": "EVAL-001",
+    "question": "Can a domestic ticket be refunded?",
+    "context": "Domestic ticket refunds depend on fare rules and cancellation timing.",
+    "answer": "A domestic ticket refund depends on the fare rules and cancellation timing.",
+    "expected_facts": ["fare rules", "cancellation timing"]
+  },
+  {
+    "id": "EVAL-002",
+    "question": "What happens after a provider timeout?",
+    "context": "Provider timeouts should be retried according to the retry policy before escalation.",
+    "answer": "The provider should be retried according to the retry policy before escalation.",
+    "expected_facts": ["retry policy", "escalation"]
+  },
+  {
+    "id": "EVAL-003",
+    "question": "Can every refund be approved automatically?",
+    "context": "High-value VIP cases may require human review before a refund is approved.",
+    "answer": "Every refund can be approved automatically.",
+    "expected_facts": ["human review"]
+  }
+]
