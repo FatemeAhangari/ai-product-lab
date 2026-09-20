@@ -1,0 +1,7 @@
+[
+  {"id":"CASE-001","expected":"refund","v1":"refund","v2":"refund"},
+  {"id":"CASE-002","expected":"booking","v1":"booking","v2":"refund"},
+  {"id":"CASE-003","expected":"provider","v1":"provider","v2":"provider"},
+  {"id":"CASE-004","expected":"refund","v1":"unknown","v2":"refund"},
+  {"id":"CASE-005","expected":"booking","v1":"booking","v2":"booking"}
+]
