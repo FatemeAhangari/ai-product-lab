@@ -2,7 +2,28 @@
 
 A practical lab for experimenting with AI product patterns, evaluation, automation, and agentic systems.
 
-This is intentionally not a collection of generic chatbot demos. Each experiment focuses on a product or system question.
+This is intentionally not a collection of generic chatbot demos. Each experiment answers a product or system question and records the trade-offs.
+
+## Experiment format
+
+**Problem → Hypothesis → Prototype → Evaluation → Product implication**
+
+## Experiments
+
+### 01 — Prompt vs Rules
+
+**Question:** When should a product use an LLM for classification, and when should deterministic rules be preferred?
+
+The experiment compares an explicit rule-based classifier with a semantic, model-shaped baseline on synthetic operational language.
+
+Key dimensions:
+- Accuracy
+- Confidence
+- Ambiguous-case handling
+- False automation risk
+
+See:
+`experiments/prompt-vs-rules/`
 
 ## Areas
 
@@ -17,28 +38,15 @@ This is intentionally not a collection of generic chatbot demos. Each experiment
 - Reliability and guardrails
 - AI product metrics
 
-## Experiment format
+## Product principle
 
-Each experiment follows:
+The goal is not to maximize LLM usage.
 
-**Problem → Hypothesis → Prototype → Evaluation → Product implication**
-
-## Example questions
-
-- When should an AI workflow use deterministic rules instead of an LLM?
-- How should confidence affect escalation?
-- How can an AI feature be evaluated beyond answer quality?
-- What is the trade-off between latency, cost, and quality?
-- Where should human review exist in an automated workflow?
+The goal is to determine **where AI creates measurable product value** while keeping predictable decisions deterministic and safe.
 
 ## Portfolio focus
 
-- AI product management
-- Product experimentation
-- AI evaluation
-- Systems thinking
-- Automation
-- Technical product leadership
+AI product management · Product experimentation · AI evaluation · Systems thinking · Automation · Technical product leadership
 
 ## Data
 
