@@ -10,6 +10,15 @@ This is intentionally not a collection of generic chatbot demos. Each experiment
 
 ## Experiments
 
+### 03 — LLM Evaluation
+
+**Question:** How can a product evaluate AI-generated answers consistently instead of relying only on human spot checks?
+
+Measures fact coverage, grounding, relevance, and overall pass rate on labeled synthetic cases.
+
+See:
+`experiments/llm-evaluation/`
+
 ### 02 — Retrieval Quality
 
 **Question:** How should a product evaluate whether a retrieval layer is finding the right evidence before an LLM generates an answer?
