@@ -10,6 +10,15 @@ This is intentionally not a collection of generic chatbot demos. Each experiment
 
 ## Experiments
 
+### 04 — Cost & Latency Trade-offs
+
+**Question:** When is a more capable AI model worth its additional latency and cost?
+
+Compares synthetic model profiles across quality, latency, and cost, using a configurable minimum-quality threshold.
+
+See:
+`experiments/cost-latency/`
+
 ### 03 — LLM Evaluation
 
 **Question:** How can a product evaluate AI-generated answers consistently instead of relying only on human spot checks?
