@@ -10,6 +10,15 @@ This is intentionally not a collection of generic chatbot demos. Each experiment
 
 ## Experiments
 
+### 06 — Prompt & Model Regression
+
+**Question:** How can a product detect quality regressions when a prompt or model version changes?
+
+Compares baseline and candidate versions on a fixed evaluation set and identifies regressions, improvements, and release status.
+
+See:
+`experiments/version-regression/`
+
 ### 05 — Human-in-the-Loop Thresholds
 
 **Question:** When should an AI system automate a decision, and when should it route the case to a human?
