@@ -1,0 +1,7 @@
+[
+  {"id":"CASE-001","confidence":0.96,"risk":"low","amount":100000,"reversible":true},
+  {"id":"CASE-002","confidence":0.94,"risk":"medium","amount":12000000,"reversible":true},
+  {"id":"CASE-003","confidence":0.98,"risk":"high","amount":92000000,"reversible":false},
+  {"id":"CASE-004","confidence":0.89,"risk":"low","amount":0,"reversible":true},
+  {"id":"CASE-005","confidence":0.97,"risk":"medium","amount":70000000,"reversible":false}
+]
